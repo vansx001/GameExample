@@ -1,0 +1,6 @@
+C:\Users\Sheng\Documents\Sheng\DevCodeCamp\C#\GameExample\GameExample\bin\Debug\GameExample.exe.config
+C:\Users\Sheng\Documents\Sheng\DevCodeCamp\C#\GameExample\GameExample\bin\Debug\GameExample.exe
+C:\Users\Sheng\Documents\Sheng\DevCodeCamp\C#\GameExample\GameExample\bin\Debug\GameExample.pdb
+C:\Users\Sheng\Documents\Sheng\DevCodeCamp\C#\GameExample\GameExample\obj\Debug\GameExample.csprojResolveAssemblyReference.cache
+C:\Users\Sheng\Documents\Sheng\DevCodeCamp\C#\GameExample\GameExample\obj\Debug\GameExample.exe
+C:\Users\Sheng\Documents\Sheng\DevCodeCamp\C#\GameExample\GameExample\obj\Debug\GameExample.pdb
